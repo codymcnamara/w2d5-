@@ -1,0 +1,17 @@
+#initialize with three towers
+
+3 disks on tower 1
+
+disks in right order
+
+can move to empty tower
+
+can move to tower with number bigger than moving disk
+
+can't move bigger disk on top of smaller disk
+
+verifies that you've won after each move
+
+verfy win == true if they actually won
+
+prompts the user
